@@ -10,5 +10,5 @@ function FindProxyForURL(url, host) {
         return "DIRECT";
     }
     // 其余走代理
-    return "PROXY 172.18.120.34:10801";
+    return "PROXY 172.18.120.29:10801";
 }
